@@ -58,4 +58,4 @@ And Every Other pin for Button should be connected to Arduino`s GND pin.
  
 One_End   ---   A0,
 
-Other end should set free, as it will detect and tell A0 pin for Static... Which will be shown on the Screen.
+Other end should set free, as it will detect and tell A0 pin for Static Electricity Nearby... Which will be shown on the Screen.
