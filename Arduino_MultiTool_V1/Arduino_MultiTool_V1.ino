@@ -1,6 +1,9 @@
 
 //Author = Abhay pawar
 
+//This File is Protected with MIT Licence
+//Dependencies Much Be installed, that Are listed in the Readme.md file
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
